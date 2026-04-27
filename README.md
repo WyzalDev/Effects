@@ -15,3 +15,12 @@ Selfmade effects with VFX Graph, Shader Graph, Trail Renderer,
 
 ### Flame Thrower
 <img src="Content/FlameThrower.gif" alt="Alt text" width="500" height="333"/>  
+
+### Tornado
+<img src="Content/Tornado.gif" alt="Alt text" width="500" height="333"/>  
+
+### Blood Splash
+<img src="Content/Blood.gif" alt="Alt text" width="500" height="333"/>  
+
+### Stylized Explosion
+<img src="Content/Explosion.gif" alt="Alt text" width="500" height="333"/>  
