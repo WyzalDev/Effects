@@ -57,7 +57,7 @@ Made with Particle System, Shader Graph, Photoshop. This effect integrated in UI
 
 <img src="Content/Grimlands_Upgrades.gif" alt="Alt text" width="641" height="274"/> 
 
-## [Vindicta] (https://freeman12412421.itch.io/vindicta)
+## [Vindicta](https://freeman12412421.itch.io/vindicta)
 In this project I created some 3D effects for spells.
 ### Blood Effect
 Made with Particle System, Shader Graph, Photoshop.
